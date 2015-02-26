@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/out/Harmony/04 - Rest Parameters.js" />
+        <item url="file://$PROJECT_DIR$/out/Harmony/03 - Spread Operator.js" />
+        <item url="file://$PROJECT_DIR$/out/Harmony/02 - Destructuring.js" />
+        <item url="file://$PROJECT_DIR$/out/Harmony/01 - Arrow Functions.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/Harmony/04 - Rest Parameters.js" />
+      <root url="file://$PROJECT_DIR$/out/Harmony/03 - Spread Operator.js" />
+      <root url="file://$PROJECT_DIR$/out/Harmony/02 - Destructuring.js" />
+      <root url="file://$PROJECT_DIR$/out/Harmony/01 - Arrow Functions.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
